@@ -51,3 +51,12 @@ theme = "DoIt"
 
 [params.home.profile]
   avatarURL = "/images/avatar.webp"
+
+# 页面底部信息配置
+[params.footer]
+  enable = true
+#  custom = ''
+  hugo = false
+  copyright = true
+  author = true
+  since = 2022

@@ -50,7 +50,4 @@ theme = "DoIt"
     noClasses = false
 
 [params.home.profile]
-  # Gravatar 邮箱, 用于优先在主页显示的头像
-  gravatarEmail = ""
-  # 主页显示头像的 URL
   avatarURL = "/images/avatar.webp"
